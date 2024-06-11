@@ -5,6 +5,14 @@ body{
 header{
     border-bottom: 1px solid #8c1819;
     margin: 20px;
+    padding: 20px 60px 10px 60px;
+    
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    color: #8c1819;
 }
 
 main{
