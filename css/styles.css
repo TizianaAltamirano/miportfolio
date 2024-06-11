@@ -15,6 +15,18 @@ header{
     color: #8c1819;
 }
 
+.portafolio{
+    text-align: center;
+    color: #8c1819;
+    padding: 200px;
+    margin-bottom: -15px;
+}
+.portfoliodown{
+    border-top: 1px solid #8c1819;
+    margin: 20px;
+    padding: 0px 0px 20px 0px;
+}
+
 main{
 
 }
