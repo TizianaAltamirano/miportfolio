@@ -2,7 +2,7 @@ body{
     background-color: #fef6ee;
 }
 
-header{
+header, .menuadicional{
     border-bottom: 1px solid #8c1819;
     margin: 20px;
     padding: 20px 60px 10px 60px;
@@ -19,22 +19,20 @@ header{
     text-align: center;
     color: #8c1819;
     padding: 200px;
-    margin-bottom: -15px;
+    margin-bottom: -25px;
 }
 .portfoliodown{
     border-top: 1px solid #8c1819;
     margin: 20px;
     padding: 0px 0px 20px 0px;
+    margin-bottom: -55px;
 }
 
-main{
-
-}
-
-.hero{
-
+img{
+    width: 200px;
+    height: auto;
 }
 
 .about{
-
+    margin: 30px 0px 0px 40px;
 }
